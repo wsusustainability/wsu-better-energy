@@ -46,3 +46,14 @@ Sustainable House project. This project is mainly run by volunteer students who 
 IoT and power management of buildings, where the IoT system developed for the HRES project and Sustainable House will be included in the BMS box.
 Future plans
 The HRES installation will move to the Kingswood campus near Building R during 2024.
+
+### IoT and BIM
+Library at Kingswood campus
+
+The Internet of Things (IoT) and Building Information Modelling (BIM) are being integrated with Digital Twin technologies to optimise energy consumption and indoor environmental parameters in the John Phillips Library, Kingswood campus.
+
+The study is being undertaken by Centre for Smart Modern Construction (opens in new window)Opens in a new window to help achieve the Sustainable Development Goal (SDG) 13.
+
+The study will capture live interactions, simulate data and use visualisation modelling tools like BIM to develop management procedures in the form of best practice guidelines.
+
+These best practice guidelines will assist Library managers in optimising energy consumption and indoor environmental parameters.
